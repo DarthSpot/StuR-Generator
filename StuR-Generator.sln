@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuR-Generator", "StuR-Generator\StuR-Generator.csproj", "{0CB0E697-F13E-440B-9EE3-FCD03DFC641F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB0E697-F13E-440B-9EE3-FCD03DFC641F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB0E697-F13E-440B-9EE3-FCD03DFC641F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB0E697-F13E-440B-9EE3-FCD03DFC641F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB0E697-F13E-440B-9EE3-FCD03DFC641F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AFCF56-3BDD-48C5-9C37-68CB5634DAA3}
+	EndGlobalSection
+EndGlobal
